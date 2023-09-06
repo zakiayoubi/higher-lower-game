@@ -1,7 +1,6 @@
 import art
 import random
 from game_data import data
-import os
 
 
 print(art.logo)
